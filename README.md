@@ -1,5 +1,5 @@
 # Katâlepsāra
-A platform for cyclical comprehension.
+Katalepsis and samsara—A platform for cyclical comprehension.
 
 Cicero relates that Zeno would illustrate katalepsis as follows:
 
