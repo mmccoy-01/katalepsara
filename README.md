@@ -9,7 +9,7 @@ Samsara is an eastern philosophical term literally meaning "wandering" or "world
 
 Our current milieu is drowning in information yet starving for knowledge. Remember, knowledge has to be digested. Only then does it become wisdom. Indigestion of information has become a problem. We're gaining weight and not nutrition.
 
-My problem began as an instiable curiosity with an exponential rate of incoming information. Some was signal, but much was noise. My question was: "How can I effectively differentiate signal to noise with respecet to my precious time?" More generally, much of what we consume is nonsense—how can we consume more sense?
+My problem began as an instiable curiosity with an exponential rate of incoming information. Some was signal, but much was noise. My question was: "How can I effectively differentiate signal to noise with respect to my precious time?" More generally, much of what we consume is nonsense—how can we consume more sense?
 
 In an attempt to remedy this issue, I subscribed to RSS feeds to tune into signal and mitigate much of the noise that clutters the surroundings of high signal information. However, the rate of RSS feeds have become too much to manage. In order to process much of this information, I am now beginning to turn to technology as a confidant.
 
