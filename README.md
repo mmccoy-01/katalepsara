@@ -1,4 +1,5 @@
-# !!This repository is archived for now. Please visit (Katâlepsāra)[mmccoy-01.github.io] for a manifestation of this inspiration!!
+# !!This repository is archived for now!!
+Please visit (Katâlepsāra)[mmccoy-01.github.io] for a manifestation of this inspiration!!
 
 # Katâlepsāra
 Katalepsis and samsara—A platform for cyclical comprehension.
